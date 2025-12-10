@@ -7,4 +7,22 @@ A motor driver is an integrated circuit used to control motors in electronics ap
 
 ## SUPPLIES
 
-<img src="docs/pin setup.png" width="300"> 
+<img src="docs/pin setup.png" width="400">  <img src="docs/ic.png" width="550">
+
+- Perf Board (or any type of project board)
+- L293D IC
+- 16-pin IC socket
+- 4x 1uF capacitors
+- 1x 1uf capacitor
+- 4x 220Ω
+- 2x 5mm 2V LED
+- 8x header female pins
+- 3x 2 pins screw connector
+- Arduino (Any) to test the Driver
+- Computer with Arduino IDE installed- 
+- Various items: soldering iron, solder- , wires (both solid and flexible), pliers, etc.
+- 4x M3 screws - 3D printed case (optional)
+
+
+## STEP 1 - CIRCUIT DESIIGN
+
