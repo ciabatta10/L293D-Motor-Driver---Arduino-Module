@@ -8,7 +8,7 @@ A motor driver is an integrated circuit used to control motors in electronics ap
 
 ## SUPPLIES
 
-<img src="docs/L293D-Pinout.png" width="300">  <img src="docs/ic.png" width="350"> <img src="docs/hbridge.png" width="300"> 
+  <img src="docs/ic.png" width="350"> <img src="docs/hbridge.png" width="300"> 
 
 
 - Perf Board (or any type of project board)
@@ -65,4 +65,5 @@ besides being a simple circuit, it took a long time to design and test it, so I 
 
 
 ## STEP 2 - TESTING AND ASSEMBLY
+
 
