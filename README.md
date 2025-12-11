@@ -66,4 +66,5 @@ besides being a simple circuit, it took a long time to design and test it, so I 
 
 ## STEP 2 - TESTING AND ASSEMBLY
 
+<img src="docs/assembly.png" width="350"> <img src="docs/solder paths.png" width="350"> <img src="docs/case.png" width="350">
 
