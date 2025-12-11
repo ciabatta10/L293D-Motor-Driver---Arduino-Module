@@ -81,7 +81,7 @@ You can also print the bottom case and attach it to the board using 4x M3 screws
 
 ## STEP 3 - ATDUINO CODE FOR TESTING
 
-
+You can find here some Arduino code i wrote for testing your modulo -------> [src/motore.ino](src/motordriver.ino)
 
 
 
