@@ -1,14 +1,14 @@
 # L293D-Motor-Driver---Arduino-Module
 ### A simple DIY motor driver module for Arduino using the L293D IC.
 
-<img src="docs/ld293d.png" width="750">
+<img src="assets/ld293d.png" width="750">
 
 A motor driver is an integrated circuit used to control motors in electronics applications. It acts as an interface between a microcontroller (like an Arduino) and the motors, controlling their speed and direction. The most common and popular IC's are from the L293 series, such as L293B, L293D, L293NE, etc. These IC's are designed to control 2 DC motors simultaneously. We will be speaking off the L293D IC only. The L293D has 16 pins and consists of two H-bridge. An H-bridge is the simplest circuit for controlling a low-current rated motor.
 
 
 ## SUPPLIES
 
-  <img src="docs/ic.png" width="350"> <img src="docs/hbridge.png" width="300"> 
+  <img src="assets/ic.png" width="350"> <img src="assets/hbridge.png" width="300"> 
 
 
 - Perf Board (or any type of project board)
@@ -28,7 +28,7 @@ A motor driver is an integrated circuit used to control motors in electronics ap
 
 ## STEP 1 - CIRCUIT DESIIGN
 
-<img src="docs/cir_schems.png" width="800">
+<img src="assets/cir_schems.png" width="800">
 
 ### How the circuit works
 
@@ -66,7 +66,7 @@ besides being a simple circuit, it took a long time to design and test it, so I 
 
 ## STEP 2 - TESTING AND ASSEMBLY
 
-<img src="docs/assembly.png" width="300"> <img src="docs/soldering_paths.png" width="300"> <img src="docs/case.png" width="300">
+<img src="assets/assembly.png" width="300"> <img src="assets/soldering_paths.png" width="300"> <img src="assets/case.png" width="300">
 
 Before placing all the components on to the board, I highly recommend to test all your components and entire circuit on a breadboard and check the datasheet of your motor driver.
 
