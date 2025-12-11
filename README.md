@@ -66,5 +66,22 @@ besides being a simple circuit, it took a long time to design and test it, so I 
 
 ## STEP 2 - TESTING AND ASSEMBLY
 
-<img src="docs/assembly.png" width="350"> <img src="docs/solder_paths.png" width="350"> <img src="docs/case.png" width="350">
+<img src="docs/assembly.png" width="300"> <img src="docs/soldering_paths.png" width="300"> <img src="docs/case.png" width="300">
+
+Before placing all the components on to the board, I highly recommend to test all your components and entire circuit on a breadboard and check the datasheet of your motor driver.
+
+Once you have done this, you can proceed by placing all the components on your board and start connecting them however you want! 
+I've done this making traces with solder on the bottom side of the board and on the top side I've bent into shape some solid core wires 
+and placed them as needed and it ended up resulting in a very cool design.
+
+If you want you can check the connections and wash the board with some isopropyl alcohol to remove all the excess flux and solder.
+
+You can also print the bottom case and attach it to the board using 4x M3 screws (the case is made for 60mmx40mm perf board).
+
+
+## STEP 3 - ATDUINO CODE FOR TESTING
+
+
+
+
 
