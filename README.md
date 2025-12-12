@@ -77,6 +77,7 @@ and placed them as needed and it ended up resulting in a very cool design.
 If you want you can check the connections and wash the board with some isopropyl alcohol to remove all the excess flux and solder.
 
 You can also print the bottom case and attach it to the board using 4x M3 screws (the case is made for 60mmx40mm perf board).
+You can find the STL file of the case here -----------> [bottom_case_60x40.stl](models/bottom_case_60x40.stl)
 
 
 ## STEP 3 - ATDUINO CODE FOR TESTING
